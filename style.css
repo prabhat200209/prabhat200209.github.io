@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+}
+footer{
+    background-color: rgb(110, 11, 4);
+    color: wheat;
+    height: 40px;
+    text-align: center;
+    margin: 5px;
+    top: 100%;
+    position: sticky;
+}
+nav{
+    background-color: rgb(12, 26, 231);
+    color: white;
+    height: 50px;
+    text-align: center;
+    margin: 5px;
+}
+li{
+   color: red;
+   display: inline-block;
+   margin: 7px;
+   padding: 5px;
+}
+a{
+    color: rgb(217, 236, 165);
+}
+h1{
+    font-size: 20px;
+    margin: 5px;
+}
+.form{
+    margin: 5px;
+}
