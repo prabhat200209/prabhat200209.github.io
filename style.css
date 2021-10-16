@@ -6,7 +6,7 @@ body{
     height: 100vh;
 }
 footer{
-    background-color: rgb(110, 11, 4);
+    background-color: rgb(116, 15, 6);
     color: wheat;
     height: 40px;
     text-align: center;
@@ -15,7 +15,7 @@ footer{
     position: sticky;
 }
 nav{
-    background-color: rgb(12, 26, 231);
+    background-color: rgb(15, 28, 227);
     color: white;
     height: 50px;
     text-align: center;
@@ -28,7 +28,7 @@ li{
    padding: 5px;
 }
 a{
-    color: rgb(217, 236, 165);
+    color: rgb(210, 226, 166);
 }
 h1{
     font-size: 20px;
